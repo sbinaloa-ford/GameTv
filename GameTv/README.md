@@ -19,10 +19,9 @@ Read Requirements.txt file for all pre-requisites
  
  Comment out startserver from setup folder and service.stop in teardown functions in GameTvTest.java if you are running appium manually or if there is a problem in running server programmatically in your IDE.
  
- Execution Ways:
- cmd: mvn test
+ Run from cmd: Go to root folder of project : GameTv and mvn test
  
- IDE: Right click on project and run as TestNg suite
+ Run from IDE: Right click on project and run as TestNg suite
  
  html Report can be seen under Reports folder
  
