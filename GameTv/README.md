@@ -17,7 +17,7 @@ Read Requirements.txt file for all pre-requisites
 
  Update global.properties file accordingly with  your deviceid and appium mainjs file path which will be there in node_modules folder (no need if you are running appium server manually)
  
- Comment out startserver from setup folder and service.stop in teardown functions in GameTvTest.java if you are running appium anually or if there is a problem in running server programmatically in your IDE.
+ Comment out startserver from setup folder and service.stop in teardown functions in GameTvTest.java if you are running appium manually or if there is a problem in running server programmatically in your IDE.
  
  Execution Ways:
  cmd: mvn test
