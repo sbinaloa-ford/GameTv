@@ -21,6 +21,7 @@ Read Requirements.txt file for all pre-requisites
  
  Execution Ways:
  cmd: mvn test
+ 
  IDE: Right click on project and run as TestNg suite
  
  html Report can be seen under Reports folder
