@@ -1,10 +1,15 @@
 Automate the login scenario  for  GameTV via Twitter
 
 IDE :  Eclipse
+
 Build tool: Maven
+
 Testing framework: TestNG
+
 Language: Java
+
 Automation Framework: Appium
+
 Reporting tool: Extent  Report
 
 
