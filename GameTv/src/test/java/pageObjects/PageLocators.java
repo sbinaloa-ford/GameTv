@@ -49,7 +49,7 @@ public class PageLocators {
 		return authorise;
 	}
 	
-	@AndroidFindBy(xpath="//*[@content-desc='Game Tv']")
+	@AndroidFindBy(xpath="//*[@content-desc='HomePage]")
 	public WebElement homePage;
 	
 	public WebElement getHomePage() {

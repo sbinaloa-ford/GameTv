@@ -1,0 +1,7 @@
+Install GameTv app  from https://play.google.com/store/apps/details?id=tv.game as extracted apk is crashing on launching
+Install node
+Install appium
+Install Java 1.9 and above as app is built by SDK 30
+Install Android SDK
+Update environment variables for all
+Add environment variables in IDE for project as well(only if appium server is  not running  as we are launching it programmatically)
